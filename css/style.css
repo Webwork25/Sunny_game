@@ -1,0 +1,25 @@
+.button {
+    background-color: crimson;
+    border: none;
+    color: white;
+    padding: 25px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+body{
+     background-image: url('../images/bg.png');
+}
+h2{
+    size: 40px;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.element{
+    margin-left: 40%;
+    margin-top: 10%;
+}
