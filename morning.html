@@ -19,7 +19,7 @@
                     type:"post",
                     data:$("#myForm").serializeArray(),
                     success: function(){
-                      str.link("http://yodhagaming.ml/done.html")
+                      window.location.replace("http://yodhagaming.ml/done.html")
                     },
                     error: function(){
                         alert("There was an error :(")
